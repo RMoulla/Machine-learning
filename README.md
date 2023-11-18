@@ -1,6 +1,6 @@
 # Machine learning
 
-Ce dépôt contient une série de projets de machine learning conçus dans une optique éducative, destinés donc aux étudiants, mais également aux professionnels qui veulent comprendre les algorithmes classiques d'intelligence artificielle. 
+Ce dépôt contient une série de projets de machine learning conçus dans une optique éducative, destinés aux étudiants et  aux professionnels qui veulent comprendre les algorithmes classiques d'intelligence artificielle. 
 
 
 ## Prérequis
