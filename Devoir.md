@@ -14,4 +14,4 @@ Un rapport détaillé, en format PDF ou HTML, contenant une analyse exploratoire
 **Évaluation :** 
 Les projets seront évalués sur la base de la rigueur de l'analyse et de la méthodologie, mais également de la créativité dans l'approche de modélisation (création de features, choix des modèles, etc.) et de la qualité du rapport final.
 
-**Date limite :** Le livrable doit être remis **avant le 7 janvier à 23:59**.
+**Date limite :** Le livrable doit être remis **avant le 7 janvier 2024 à 23:59**.
